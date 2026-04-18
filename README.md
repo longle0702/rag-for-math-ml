@@ -2,6 +2,8 @@
 
 Retrieval-Augmented Generation (RAG) system for answering questions about *Mathematics for Machine Learning* using a local corpus plus optional web augmentation.
 
+> This project was developed as part of the **Gen AI Week** course at **EPITA**, with my teammates Hamza El Hamdi, Kim Tan Truong, and Malo Fargeas.
+
 ## What this project does
 
 - Retrieves relevant passages from indexed course content
@@ -138,11 +140,3 @@ CROSS_ENCODER_ENABLED=true
 CROSS_ENCODER_MODEL=cross-encoder/ms-marco-MiniLM-L-6-v2
 RETRIEVAL_CANDIDATE_MULTIPLIER=4
 ```
-
-## Acknowledgements
-
-Thanks to these teammates for helping out:
-
-- Hamza El Hamdi
-- Kim Tan Truong
-- Malo Fargeas
