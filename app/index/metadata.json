@@ -1,0 +1,6 @@
+{
+  "retrieval_backend": "bi_encoder",
+  "vector_db_metric": "cosine",
+  "bi_encoder_model": "BAAI/bge-small-en-v1.5",
+  "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2"
+}
